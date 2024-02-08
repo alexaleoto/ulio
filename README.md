@@ -1,0 +1,1 @@
+A chatbot that is able to securely calculate simple equations and give weather forecast for any city in the world using the openweather api. Further functionalties will include a full backend to protect api keys and google apis to incorperate language learning and text to speech.
